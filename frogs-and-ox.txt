@@ -10,6 +10,7 @@ The old Frog soon missed the little one and asked his brothers and sisters what 
 
 "Big, was he!" said the old Frog, puffing herself up. "Was he as big as this?"
 
+<<<<<<< HEAD
 "Oh, much bigger!" they cried.
 
 The Frog puffed up still more.
@@ -17,3 +18,6 @@ The Frog puffed up still more.
 "He could not have been bigger than this," she said.
 
 But the little Frogs all declared that the monster was much, much bigger and the old Frog kept puffing herself out more and more until, all at once, she burst.
+=======
+"Oh, much ....
+>>>>>>> 4ae85be (Add incomplete frongs-and-ox story)
